@@ -1,3 +1,3 @@
 # RyzenDOC
 Test
-Vinay Kumar 
+Vinay Parmar
